@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "171530266318",
+    "firebase_url": "https://sistemkeamananmotor-615ed-default-rtdb.firebaseio.com",
+    "project_id": "sistemkeamananmotor-615ed",
+    "storage_bucket": "sistemkeamananmotor-615ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171530266318:android:09721b819e74a8a5ffd29f",
+        "android_client_info": {
+          "package_name": "com.sistem_keamanan_motor_madi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171530266318-q7glbg0mj63agd3fln2k7slblgrrq6g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQKzj6wgFt-BR16MkYs5G-iN1AwnNY5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171530266318-q7glbg0mj63agd3fln2k7slblgrrq6g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171530266318:android:d647d0501aaa5b28ffd29f",
+        "android_client_info": {
+          "package_name": "com.sistemkeamananmotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171530266318-q7glbg0mj63agd3fln2k7slblgrrq6g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQKzj6wgFt-BR16MkYs5G-iN1AwnNY5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171530266318-q7glbg0mj63agd3fln2k7slblgrrq6g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171530266318:android:9f287167d14697e5ffd29f",
+        "android_client_info": {
+          "package_name": "com.skripsiunggarmadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171530266318-q7glbg0mj63agd3fln2k7slblgrrq6g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQKzj6wgFt-BR16MkYs5G-iN1AwnNY5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171530266318-q7glbg0mj63agd3fln2k7slblgrrq6g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
